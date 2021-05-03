@@ -1,0 +1,23 @@
+2021-05-03 15:13:48,865 [WARN] Application: No arguments provided for input and output files, using defaults 
+2021-05-03 15:13:48,875 [INFO] Application: Input file set to input.csv, output file set to output.csv 
+2021-05-03 15:13:48,884 [WARN] Application: Invalid data, discarding line: "Product, Origin Year, Development Year, Incremental Value" 
+2021-05-03 15:13:48,899 [INFO] Application: Loaded payment of 110.0 from origin year 1992 and development year 1992 into claims block for product Comp 
+2021-05-03 15:13:48,900 [INFO] Application: Updated earliest origin year to 1992 
+2021-05-03 15:13:48,902 [INFO] Application: Updated greatest span to 1 
+2021-05-03 15:13:48,902 [INFO] Application: Loaded payment of 170.0 from origin year 1992 and development year 1993 into claims block for product Comp 
+2021-05-03 15:13:48,903 [INFO] Application: Updated greatest span to 2 
+2021-05-03 15:13:48,903 [INFO] Application: Loaded payment of 200.0 from origin year 1993 and development year 1993 into claims block for product Comp 
+2021-05-03 15:13:48,903 [INFO] Application: Loaded payment of 45.2 from origin year 1990 and development year 1990 into claims block for product Non-Comp 
+2021-05-03 15:13:48,903 [INFO] Application: Updated earliest origin year to 1990 
+2021-05-03 15:13:48,903 [INFO] Application: Loaded payment of 64.8 from origin year 1990 and development year 1991 into claims block for product Non-Comp 
+2021-05-03 15:13:48,904 [INFO] Application: Loaded payment of 37.0 from origin year 1990 and development year 1993 into claims block for product Non-Comp 
+2021-05-03 15:13:48,904 [INFO] Application: Updated greatest span to 4 
+2021-05-03 15:13:48,904 [INFO] Application: Loaded payment of 50.0 from origin year 1991 and development year 1991 into claims block for product Non-Comp 
+2021-05-03 15:13:48,904 [INFO] Application: Loaded payment of 75.0 from origin year 1991 and development year 1992 into claims block for product Non-Comp 
+2021-05-03 15:13:48,906 [INFO] Application: Loaded payment of 25.0 from origin year 1991 and development year 1993 into claims block for product Non-Comp 
+2021-05-03 15:13:48,906 [INFO] Application: Loaded payment of 55.0 from origin year 1992 and development year 1992 into claims block for product Non-Comp 
+2021-05-03 15:13:48,906 [INFO] Application: Loaded payment of 85.0 from origin year 1992 and development year 1993 into claims block for product Non-Comp 
+2021-05-03 15:13:48,906 [INFO] Application: Loaded payment of 100.0 from origin year 1993 and development year 1993 into claims block for product Non-Comp 
+2021-05-03 15:13:48,910 [INFO] Application: Wrote header to output: 1990, 4 
+2021-05-03 15:13:48,912 [INFO] Application: Wrote accumulated triangle to output: Comp, 0, 0, 0, 0, 0, 0, 0, 110, 280, 200 
+2021-05-03 15:13:48,913 [INFO] Application: Wrote accumulated triangle to output: Non-Comp, 45.2, 110, 110, 147, 50, 125, 150, 55, 140, 100 
